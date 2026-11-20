@@ -1,0 +1,6 @@
+{
+  "name": "Level Zero: Tape 09",
+  "description": "First-person 3D raycasted Backrooms anomaly hunting game with VHS camcorder scanning, escalating liminal dread, shifting corridors, and an offline Anomaly Codex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

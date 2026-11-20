@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Level Zero: Tape 09</string>
+    <string name="tape_deck_subtitle">VHS ARCHIVE // LEVEL 0 ANOMALY SURVEY</string>
+    <string name="action_insert_tape">INSERT TAPE &amp; WALK</string>
+    <string name="nav_deck">TAPE DECK</string>
+    <string name="nav_codex">CODEX</string>
+    <string name="nav_archive">ARCHIVE</string>
+    <string name="hud_rec">REC</string>
+    <string name="hud_scan">SCAN</string>
+    <string name="hud_scanning">SCANNING</string>
+    <string name="hud_zoom_1x">1.0x</string>
+    <string name="hud_zoom_2x">2.0x</string>
+    <string name="hud_eject_tape">EJECT TAPE</string>
+    <string name="hud_resume">RESUME</string>
+    <string name="hud_paused">TAPE PAUSED</string>
+    <string name="summary_title_ejected">TAPE EJECTED — FIELD LOG SAVED</string>
+    <string name="action_walk_again">INSERT NEW TAPE</string>
+    <string name="action_view_codex">OPEN CODEX</string>
+    <string name="action_return_deck">TAPE DECK</string>
+    <string name="codex_title">ANOMALY CODEX</string>
+    <string name="codex_subtitle">CONFIRMED LEVEL 0 DEVIATIONS</string>
+    <string name="codex_filter_all">ALL</string>
+    <string name="codex_filter_observed">OBSERVED</string>
+    <string name="codex_filter_redacted">REDACTED</string>
+    <string name="archive_title">TAPE ARCHIVE</string>
+    <string name="archive_subtitle">LOCAL FIELD RECORDINGS</string>
+    <string name="archive_empty_title">NO TAPES LOGGED YET</string>
+    <string name="archive_empty_hint">Insert a tape to walk Level 0, zoom in on suspicious objects, and record confirmed anomalies.</string>
+    <string name="cd_audio_toggle">Toggle ambient sound</string>
+    <string name="cd_pause_tape">Pause tape</string>
+    <string name="cd_zoom_toggle">Toggle 2x camcorder optical zoom</string>
+    <string name="cd_scan_button">Scan object in viewfinder</string>
+    <string name="cd_turn_left">Quick turn left</string>
+    <string name="cd_turn_right">Quick turn right</string>
+    <string name="cd_close_dialog">Close details</string>
+</resources>
